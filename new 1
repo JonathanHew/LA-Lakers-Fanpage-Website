@@ -1,0 +1,71 @@
+<iframe class ="hofHighlights" width="560" height="270" src="https://www.youtube.com/embed/CsCCuccjtqw">
+	<p>  Your browser doesn't support IFrames, sorry!!  </p>
+</iframe>
+
+
+
+<table class="careerStats">
+							<tr>
+								<th>Games</th>
+								<th>Points</th>
+								<th>Rebounds</th>
+								<th>Assists</th>
+								<th>FG%</th>
+								<th>3P%</th>
+								<th>FT%</th>
+							<tr>
+							<tr>
+								<td>906</td>
+								<td>19.5</td>
+								<td>7.2</td>
+								<td>11.2</td>
+								<td>52%</td>
+								<td>30.3%</td>
+								<td>84.8%</td>
+							</tr>
+</table>
+
+
+
+<span id="dots">...</span>
+<span id="more">
+
+
+
+<div class="awards">
+	<ul>
+		<li>NBA Hall Of Fame :2002</li>
+		<li>NBA Championship Rings x5</li>
+		<li>Season MVP x3</li>
+		<li>Finals MVP x3</li>
+		<li>League Assist Leader x4</li>
+		<li>League Steals Leader x2</li>
+	</ul>
+</div>
+
+					<div class="awards">
+						<ul>
+							<li>All NBA First Team x9</li>
+							<li>All NBA Second Team x1</li>
+							<li>All Rookie First Team x1</li>
+							<li>NBA All Star Player x12</li>
+							<li>All Star MVP x2</li>
+						</ul>
+						
+					</div>
+						<p>
+						Earvin "Magic" Johnson Jr. (born August 14, 1959) is an American retired professional basketball player
+						and former president of basketball operations of the Los Angeles Lakers of the National Basketball Association (NBA).
+						He played point guard for the Lakers for 13 seasons.
+						After winning championships in high school and college,
+						Johnson was selected first overall in the 1979 NBA draft by the Lakers.
+						He won a championship and an NBA Finals Most Valuable Player Award in his rookie season,
+						and won four more championships with the Lakers during the 1980s.
+						Johnson retired abruptly in 1991 after announcing that he had contracted HIV,
+						but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award.
+						After protests from his fellow players, he retired again for four years, but returned in 1996,
+						at age 36, to play 32 games for the Lakers before retiring for the third and final time.
+					</p>
+					</span>
+					<button onclick="myFunction()" id="myBtn">Read more</button>
+				</div>
