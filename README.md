@@ -38,7 +38,10 @@ The website also contains a contact form with the follwoing functionality:
   - Button
 
 # Youtube Video Link 
-Pending
+Please click on the video image below to view the demo of this project.
+
+[![YouTube](http://img.youtube.com/vi/k5Qmhsj2Ctc/0.jpg)](https://youtu.be/k5Qmhsj2Ctc)
+https://youtu.be/k5Qmhsj2Ctc
 
 # Instructions
   - Download this project
